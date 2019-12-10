@@ -1,0 +1,28 @@
+<html>
+<title>Rock Star</title>
+<h1>Ovo je moj prvi veb-sajt!</h1>
+<p>Bice sjajan!</p>
+<p>Ovo ce biti najbolji sajt na svetu</p>
+<p>POSETI MOJ KANAL!!!!!!!!!!!</p>
+<h1>POSTANI DEO ROCK STAR I BUDI NAJBOLJI NA SVETU</h1>
+
+
+<p>Ovo su moji omiljeni web sajtovi:
+<ul>
+<li>www.youtube.com</li>
+<li>https://dexrock.com/shop/</li>
+
+
+<p><strong>Mozda sajt bude malo spor ali nema veze popravicu to</strong></p>
+                 
+
+              <h1>Petar Jovanovic</h1>
+
+
+
+
+
+
+
+
+</html>
